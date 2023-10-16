@@ -1,1 +1,3 @@
-{"privacy":"https:\/\/www.baidu.com","appid":"kkkkkkkkk","appsecret":"https:\/\/www.baidu.com"}
+{
+  "privacy": "https:\/\/www.freeprivacypolicy.com\/live\/a299618b-a6a8-4965-83e7-e208fad3f85d"
+}
