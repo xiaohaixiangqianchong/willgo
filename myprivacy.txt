@@ -1,1 +1,1 @@
-hellow  world
+{"privacy":"https:\/\/www.baidu.com","appid":"kkkkkkkkk","appsecret":"https:\/\/www.baidu.com"}
